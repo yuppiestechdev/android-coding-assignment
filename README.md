@@ -1,4 +1,4 @@
-### iOS Coding assignment
+### Android Coding assignment
 
 #### Brief
 
